@@ -1,0 +1,12 @@
+Product,Category,City,Quantity,Price,Profit,Sales
+Laptop,Electronics,Pune,3,50000,10000,150000
+Moblie,Electronics,Mumbai,5,20000,9000,100000
+Tablet,Electronics,Akola,3,15000,6000,45000
+Laptop,Electronics,Nagpur,2,60000,11000,120000
+Moblie,Electronics,Pune,4,20000,4000,80000
+Headphones,Accessories,Delhi,10,3000,1000,30000
+Tablet,Electronics,Mumbai,6,15000,7000,90000
+Laptop,Electronics,Nagpur,8,25000,8000,200000
+Earbuds,Electronics,Delhi,5,55000,10000,275000
+Moblie,Accessories,Pune,7,25000,8000,175000
+Headphone,Accessories,Akola,11,1800,1000,19800
